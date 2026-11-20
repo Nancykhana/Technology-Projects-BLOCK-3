@@ -8,7 +8,8 @@ Run:
 
 ### Screenshot
 
-(Add screenshot here)
+(Add screenshot here)<img width="1710" height="1318" alt="image" src="https://github.com/user-attachments/assets/38f41d29-0110-453b-89ab-49b35f2a510a" />
+
 
 ### Questions
 
@@ -28,7 +29,7 @@ Run:
 
     ps aux
 
-### Screenshot
+### Screenshot <img width="2592" height="1428" alt="image" src="https://github.com/user-attachments/assets/31e1b6bd-bae7-4c39-bcf1-792cda012848" />
 
 (Add screenshot here)
 
@@ -50,7 +51,8 @@ Run:
 
     ss -tuln
 
-### Screenshot
+### Screenshot <img width="1568" height="442" alt="image" src="https://github.com/user-attachments/assets/39c6cabe-ea95-400d-96ea-61c300696086" />
+
 
 (Add screenshot here)
 
