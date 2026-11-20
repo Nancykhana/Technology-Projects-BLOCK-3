@@ -7,7 +7,8 @@ Run:
     touch secret.txt
     ls -l secret.txt
 
-### Screenshot
+### Screenshot <img width="880" height="264" alt="image" src="https://github.com/user-attachments/assets/d758282e-0f10-4c09-9808-4cefb685e864" />
+
 
 (Add screenshot here)
 
