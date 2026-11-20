@@ -47,7 +47,8 @@ Hover over the link in the email (or copy link) and inspect the URL.
 
 ### Screenshot
 
-(Add screenshot)
+(Add screenshot) <img width="2216" height="1340" alt="image" src="https://github.com/user-attachments/assets/529f3fc5-2cf2-449b-a9de-1b8cb7217668" />
+
 
 ### Questions
 
