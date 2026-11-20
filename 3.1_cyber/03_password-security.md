@@ -6,7 +6,8 @@ Run:
 
     echo "password123" | cracklib-check
 
-### Screenshot
+### Screenshot <img width="1998" height="320" alt="image" src="https://github.com/user-attachments/assets/50e4fb35-0516-4d4b-ba21-0696d4addbbe" />
+
 
 (Add screenshot here)
 
@@ -27,9 +28,10 @@ Run:
 
     echo "Tr4!nBicyclePlanet" | cracklib-check
 
-### Screenshot
+### Screenshot 
 
-(Add screenshot here)
+(Add screenshot here) <img width="1444" height="482" alt="image" src="https://github.com/user-attachments/assets/9ff53895-896d-401a-a74a-9a359d42302c" />
+
 
 ### Questions
 
